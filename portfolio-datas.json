@@ -1,0 +1,487 @@
+[
+    {
+      "id": "1",
+      "title": "Solidare",
+      "description": "An application to help child out of school, cooperate with Rumah Zakat",
+      "images": [
+        "assets/img/portfolio/solidare_banner.jpg"
+      ],
+      "details": [
+        "Solidare is an application to help children who cannot go to school because of costs. People who care will easily channel aid through this application. We work together with Rumah Zakat.",
+        "I contributed as an Android Developer who rebuilt an existing application to participate in the BRI Digital Challenge, a Hackathon held by BRI in 2015. We successfully passed and entered the top 20 out of 792 participants.",
+        "We successfully reached the peak of Hackathon Day on September 30 and October 1, 2016 at ICE BSD, first 121 finalists received workshop guidance or Pre Hackathon Day on September 23 at the BRI I Building Hall. At this stage, the finalists were given the opportunity to ask questions to sharpen the ideas, prototypes, and simulations of the digital solutions they offered."
+      ],
+      "info": {
+        "category": "Android",
+        "tech_stack": " Android Studio, Java, Kotlin, Retrofit, XML, Postman",
+        "client": "UNIKOM Codelabs",
+        "date": "2016",
+        "url": "http://example.com",
+        "video_url" : null
+      }
+    },
+    {
+      "id": "2",
+      "title": "Sleepy",
+      "description": "An Android app to help you to get quality of Sleep",
+      "images": [
+        "assets/img/portfolio/sleepy_banner.jpg"
+      ],
+      "details": [
+        "Sleepy is a smart application that helps people get sleep quality. By using a smartwatch that will monitor sleep data and a smartphone light censor, the application can collect and provide tips and actions to do for better sleep.",
+        "Built with Java and Kotlin, Bluetooth connectivity, and S-Health library from Samsung"
+      ],
+      "info": {
+        "category": "Android Native",
+        "tech_stack": "Android Studio, Java, Kotlin, Retrofit, XML, Bluetooth Smartwatch SDK, S-Health SDK, Postman",
+        "client": "Self Project (Bachelor's Degree Thesis Project)",
+        "date": "2016",
+        "url": null,
+        "video_url" : null
+      }
+    },
+    {
+        "id": "3",
+        "title": "Comrades",
+        "description": "Smart application as a media for HIV/AIDS education and services.",
+        "images": [
+          "assets/img/portfolio/comrades/comrades_banner.jpg"
+        ],
+        "details": [
+          "Comrades is an application to help HIV/AIDS community and ODHA support each other, to remind ODHA about their ARV therapy, also as media education and information about HIV/AIDS.",
+          "Built with Java and Kotlin, Bluetooth connectivity for connecting to smartwatch and Smart box medicine for ARV."
+        ],
+        "info": {
+          "category": "Android, IoT",
+          "tech_stack": " Java, Kotlin, Retrofit, XML, Bluetooth Smartwatch SDK, Postman",
+          "client": "UNIKOM Codelabs",
+          "date": "2015 - 2017",
+          "url": "https://play.google.com/store/apps/details?id=id.comrade",
+          "video_url": "https://www.youtube.com/embed/-6sLrx5eSYA?si=U52AllfWgAvCFI7Z"
+        }
+      },
+      {
+        "id": "4",
+        "title": "Sistem Informasi Karya Mandiri",
+        "description": "An smart IoT Android app for ODHA (People with HIV/AIDS)",
+        "images": [
+          "assets/img/portfolio/comrades/comrades_banner.jpg",
+          "assets/img/portfolio/comrades/comrades_banner.jpg"
+        ],
+        "details": [
+          "Comrades is an application to help HIV/AIDS community and ODHA support each other, to remind ODHA about their ARV therapy, also as media education and information about HIV/AIDS.",
+          "Built with Java and Kotlin, Bluetooth connectivity for connecting to smartwatch and Smart box medicine for ARV."
+        ],
+        "info": {
+          "category": "Android, IoT",
+          "tech_stack": "PHP, Laravel, HTML, JavaScript, RFID",
+          "client": "UNIKOM Codelabs",
+          "date": "2015-2017",
+          "url": null,
+          "video_url": "https://www.youtube.com/embed/-6sLrx5eSYA?si=U52AllfWgAvCFI7Z"
+        }
+      },
+      {
+        "id": "5",
+        "title": "Paytren OPT",
+        "description": "Attendance Application by scanning QR code built with native Android",
+        "images": [
+          "assets/img/portfolio/paytren_opt.PNG"
+        ],
+        "details": [
+          "OPT is short of Orientasi Pebisnis Treni, so this is the annual event that held by Paytren for Mitra Paytren.",
+          "This app is support both for online and offline mode. When the organizer held an event at no signal area this app will collect attendance data to mobile disk first, then will upload to cloud if there's Internet connection."
+        ],
+        "info": {
+          "category": "Android",
+          "tech_stack": "Kotlin, Retrofit, XML, Postman",
+          "client": "Paytren",
+          "date": "2017-2018",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "6",
+        "title": "Paytren EDC",
+        "description": "An Android application to help face to face transactions",
+        "images": [
+          "assets/img/portfolio/paytren_EDC_banner.png"
+        ],
+        "details": [
+          "Face to face transaction like TopUp, Withdrawl with print receipt transaction by using Bluetooth connection."
+        ],
+        "info": {
+          "category": "Android",
+          "tech_stack": "Kotlin, Retrofit, XML, Bluetooth Printer API, Postman",
+          "client": "Paytren",
+          "date": "2017-2018",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "7",
+        "title": "Paytren 5.17",
+        "description": "Paytren e-Money Application built with native Android and iOS",
+        "images": [
+          "assets/img/portfolio/paytren_5_17.jpg"
+        ],
+        "details": [
+          "e-Money application from Paytren that have many features like PPOB, KYC, Pay by QRIS, Transfer, and chats.",
+          "Contribute to built Android for Transaction History with print to Bluetooth printer",
+          "Also contribute to built iOS for feature KYC"
+        ],
+        "info": {
+          "category": "Android, iOS",
+          "tech_stack": "Swift, UIKit, Storyboard, Kotlin, Retrofit, XML, Bluetooth Printer API, Postman",
+          "client": "Paytren",
+          "date": "2018 - 2019",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "8",
+        "title": "Paytren Connect",
+        "description": "iOS Application with IoT features",
+        "images": [
+          "assets/img/portfolio/paytren_connect.jpg"
+        ],
+        "details": [
+          "Paytren Connect is Paytren Connect is an smart application that you can use after upgrade to Mitra Bisnis Premier.",
+          "There are Smart chat, Smart media, Smart IoT, Smart link Apps, Smart Care, Smart Ads, and Smart Communication."
+        ],
+        "info": {
+          "category": "iOS",
+          "tech_stack": "Swift, UIKit, Storyboard, Postman",
+          "client": "Paytren",
+          "date": "2018 - 2019",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "9",
+        "title": "Nazar.id",
+        "description": "e-Commerce mobile Application and Mitra Nazar.id which integrated with Nazar.id app",
+        "images": [
+          "assets/img/portfolio/nazarid_banner.jpg"
+        ],
+        "details": [
+          "Nazar.id is a public e-commerce application.",
+          "I'm here to develop Native Android and iOS Application."
+        ],
+        "info": {
+          "category": "Android, iOS",
+          "tech_stack": "Android, Java, Kotlin, Swift, UIKit, Storyboard, Postman",
+          "client": "Paytren",
+          "date": "2018 - 2019",
+          "url": "https://play.google.com/store/apps/details?id=id.smi.nazarid",
+          "video_url": null
+        }
+      },
+      {
+        "id": "10",
+        "title": "InnoPlayer SDK",
+        "description": "Media Player Android Mobile and TV SDK",
+        "images": [
+          "assets/img/portfolio/innoplayer.jpg"
+        ],
+        "details": [
+          "Being part of RnD team at MNC Innovation Center I'm contributing on research to build Media Player SDK, InnoPlayer.",
+          "InnoPlayer is an media player SDK library that used for video, audio and live stream applications. Not only SDK for mobile application but also for large screen too, android tv.",
+          "For SDK documentation I'm also using Dokka, documentation engine for Kotlin."
+        ],
+        "info": {
+          "category": "Android, SDK",
+          "tech_stack": "Android, Java, Kotlin, Media Player API, Dokka",
+          "client": "MNC",
+          "date": "2020 - 2022",
+          "url": "https://github.com/mncinnovation/Inno-Player-Android-Demo",
+          "video_url": null
+        }
+      },
+      {
+        "id": "11",
+        "title": "MNC Identifier SDK",
+        "description": "MNC Identifier is a service to identify, and verify consumer with AI in it.",
+        "images": [
+          "assets/img/portfolio/mnc_identifier/mnc-identifier-cover.jpeg",
+          "assets/img/portfolio/mnc_identifier/mnc_identifier_banner_liveness.jpeg",
+          "assets/img/portfolio/mnc_identifier/mnc_identifier_banner_ocr.jpeg"
+        ],
+        "details": [
+          "MNC Identifier is an smart identify SDK from MNC with AI. There are two main features in here.",
+          "1. Liveness Detection",
+          "Liveness Detection using mlkit face recognition to detect live person present at the point of capture.",
+          "2. OCR (Optical Character Recognition)",
+          "Optical Character Recognition using mlkit text recognition to detect text at the point of capture.",
+          "Contributing on research and development for OCR SDK library and optimizing to prevent Out of Memory"
+        ],
+        "info": {
+          "category": "Android, SDK, Open Source",
+          "tech_stack": "Android, Java, Kotlin, XML, ML Kit, Face Recognition, Text Recognition",
+          "client": "MNC, Motion Pay",
+          "date": "2022 - 2023",
+          "url": "https://github.com/mncinnovation/mnc-identifiersdk-android",
+          "video_url": null
+        }
+      },
+
+      {
+        "id": "12",
+        "title": "HK Toll App - iOS",
+        "description": "An application to help you while you want and driving on the Highway, especially at toll.",
+        "images": [
+          "assets/img/portfolio/hk_toll_app_banner.jpg"
+        ],
+        "details": [
+          "Contribute to finishing development for some features and also bug fixing."
+        ],
+        "info": {
+          "category": "iOS",
+          "tech_stack": "Swift, Obj-C, UIKit",
+          "client": "Karya Eka Nala, Hutama Karya",
+          "date": "January - February 2021",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "23",
+        "title": "Aplikasi Inovasi Daerah",
+        "description": "Regional Innovation Applications consist of: Public Services, Government Administration, Education, Social Disparities and others",
+        "images": [
+          "assets/img/portfolio/inovasi_daerah_app_kemendag.jpg"
+        ],
+        "details": [
+          "This Regional Innovation is intended to encourage positive competition between provincial governments and between district/city governments in the implementation of regional government so that improved services to the community and increased development can be realized, in order to realize the welfare of the people.",
+          "I'm here as part-time iOS developer which have built from zero by using SwiftUI."
+        ],
+        "info": {
+          "category": "iOS",
+          "tech_stack": "iOS, Swift, SwiftUI",
+          "client": "UrsaByte, Kementerian Dalam Negeri",
+          "date": "Nov 2021 - Des 2022",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "13",
+        "title": "Bioskop Online",
+        "description": "Media Player Android Mobile and TV SDK",
+        "images": [
+          "assets/img/portfolio/bioskop_online.jpg"
+        ],
+        "details": [
+          "Bioskop Online is a Transactional Video On Demand (TVOD) service that presents quality local content created by the nation's children.",
+          "I'm here as part-time Android developer which have maintenance for add, enhancement some features and also bug fixing."
+        ],
+        "info": {
+          "category": "Android",
+          "tech_stack": "Android, Java, Kotlin, XML, Media Player API, ExoPlayer SDK",
+          "client": "Ordent, Bioskop Online",
+          "date": "2021 - 2022",
+          "url": "https://bioskoponline.com/page/tentang-kami",
+          "video_url": null
+        }
+      },
+      {
+        "id": "14",
+        "title": "KBStar KB Bank",
+        "description": "Mobile banking application from KB Bank",
+        "images": [
+          "assets/img/portfolio/kbstar.jpg"
+        ],
+        "details": [
+          "KBStar is mobile banking application from KB Bank (previously is Bukopin).",
+          "Revamp Mobile Application KBStar Bukopin using Flutter.",
+          "Contribute to module PPOB (Purchase, Payment & top-up e-wallet), module plus account, transaction history, and also create base Source of Funds widgets."
+        ],
+        "info": {
+          "category": "Flutter",
+          "tech_stack": "Flutter, Dart",
+          "client": "UrsaByte, KBStar",
+          "date": "2022",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "15",
+        "title": "API PPOB Bank Nobu",
+        "description": "Restful API for PPOB Sistem Bank Nobu",
+        "images": [
+          "assets/img/portfolio/nobu.jpg"
+        ],
+        "details": [
+          "Join as Back-End developer to create Restful API by using Java Spring boot and Go-Lang.",
+          "Contribute to create Restful API for PPOB Product Management, Transaction History and Reporting."
+        ],
+        "info": {
+          "category": "Back-End",
+          "tech_stack": "Java, Spring, Go-Lang, Postgres, SQL, JSON",
+          "client": "UrsaByte, KBStar",
+          "date": "2022-2023",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "16",
+        "title": "SES Audio Editor",
+        "description": "SES is an smart audio application for Audio Editing.",
+        "images": [
+          "assets/img/portfolio/ses_audio_editor.jpg"
+        ],
+        "details": [
+          "SES is coming from research and development product at MNC for audio editing.",
+          "Main features of this application is recording, editing (Trim, Converter), and Audio Effect (Noise reduce & Tone).",
+          "I'm here has successfully built this app in just only 3 weeks by using Jetpack Compose."
+        ],
+        "info": {
+          "category": "Android",
+          "tech_stack": "Java, Kotlin, Jetpack Compose, FFmpeg",
+          "client": "MNC",
+          "date": "July 2022",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "17",
+        "title": "Cubicle SDK",
+        "description": "Video Editor SDK for video editing.",
+        "images": [
+          "assets/img/portfolio/cubicle.jpg"
+        ],
+        "details": [
+          "Cubicle is Video Editor SDK that allows other media projects to use this SDK for video editing.",
+          "Contribute to adding an Audio Editing module and add Link."
+        ],
+        "info": {
+          "category": "Android, SDK",
+          "tech_stack": "Java, Kotlin, Jetpack Compose, FFmpeg, Android Library",
+          "client": "MNC",
+          "date": "2022 - 2023",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "18",
+        "title": "Ar-Risalah Lirboyo iOS App",
+        "description": "e-Learning iOS application for pasantren Ar-Risalah Lirboyo.",
+        "images": [
+          "assets/img/portfolio/arrisalah_banner.png"
+        ],
+        "details": [
+          "Make e-Learning of pasantren Ar-Risalah Lirboyo available on iPhone",
+          "Built it with webview to embedded Ar-Risalah Lirboyo existing website system."
+        ],
+        "info": {
+          "category": "iOS",
+          "tech_stack": "iOS, SwiftUI",
+          "client": "Karya Eka Nala, Pondok Pesantren Ar-Risalah",
+          "date": "July 2022",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "19",
+        "title": "Launcher TV Vision+ v2.0",
+        "description": "Android TV Launcher for STB Vision+",
+        "images": [
+          "assets/img/portfolio/vision_plus_launcher.jpg"
+        ],
+        "details": [
+          "Contribute to building Android TV apps for the Vision+ launcher.",
+          "Especially on the Accounts module (including Profile, Purchase Package, Inbox, Terms and Conditions, and Customer Service Information)"
+        ],
+        "info": {
+          "category": "Android",
+          "tech_stack": "Kotlin, XML, Leanback, AndroidTV",
+          "client": "MNC, Vision+",
+          "date": "March - May",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "20",
+        "title": "Android TV Vision+",
+        "description": "Continue develop some features for Android TV Vision+ General & IndiHome",
+        "images": [
+          "assets/img/portfolio/vision_plus.jpg"
+        ],
+        "details": [
+          "Contribute to add some features:",
+          "- Sports Section",
+          "- Interstitial Ads",
+          "- Move Catchup to Premium User",
+          "- Ads player",
+          "- Token Play from Android TV Launcher Vision+",
+          "Also optimizing the load of some pages and bug fixes."
+        ],
+        "info": {
+          "category": "Android, TV",
+          "tech_stack": "Kotlin, XML, Leanback, AndroidTV",
+          "client": "MNC, Vision+",
+          "date": "May 2023",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "21",
+        "title": "Revamp Vision+ v2.0",
+        "description": "Rewrite Vision+ v2.0",
+        "images": [
+          "assets/img/portfolio/vision_plus_revamp.jpg"
+        ],
+        "details": [
+          "Revamp/ rewrite Android TV Vision+",
+          "Contribute to build:",
+          "- Content Detail Movies and Series",
+          "- Handle Deeplink",
+          "- Revamp for IndiHome Business Model",
+          "Also bug fixes."
+        ],
+        "info": {
+          "category": "Android, TV",
+          "tech_stack": "Kotlin, XML, Leanback, AndroidTV",
+          "client": "MNC, Vision+",
+          "date": "Sep 2023 - Feb 2024",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "22",
+        "title": "Vision+ SDK v3.0",
+        "description": "Android TV SDK Vision+",
+        "images": [
+          "assets/img/portfolio/vision_plus_new.png"
+        ],
+        "details": [
+          "Rewrite Android TV Vision+ that has already been developed by the vendor.",
+          "We make it in SDK format to make it seamless integration with Vision+ partners such as RCTI+.",
+          "Contribute to build:",
+          "- Detail Page",
+          "- Home & Adaptive Catalog Content",
+          "- Authentication",
+          "- Handle deeplinks"
+        ],
+        "info": {
+          "category": "Android, TV, SDK",
+          "tech_stack": "Kotlin, Ktor, XML, Leanback, AndroidTV",
+          "client": "MNC, Vision+",
+          "date": "Feb 2024 - Present",
+          "url": null,
+          "video_url": null
+        }
+      }
+  ]
