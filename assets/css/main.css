@@ -1137,8 +1137,27 @@ section,
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
+
 .contact .info-item+.info-item {
   margin-top: 40px;
+}
+
+.contact .row {
+  display: flex;
+  justify-content: center; /* Center the items */
+  gap: 20px; /* Add a small gap between items */
+}
+
+.contact .info-item {
+  flex-direction: row;
+  align-items: center;
+  margin: 0 20px; /* Adjust spacing between items */
+  margin-right: 10px; /* Adjust this value to control space */
+}
+
+.contact .col-lg-12 {
+  display: flex;
+  justify-content: space-between;
 }
 
 .contact .info-item i {
@@ -1152,7 +1171,7 @@ section,
   align-items: center;
   border-radius: 50px;
   transition: all 0.3s ease-in-out;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 
 .contact .info-item h3 {
@@ -1173,6 +1192,9 @@ section,
   color: var(--contrast-color);
 }
 
+.contact .info-item:last-child {
+  margin-right: 0; /* Remove margin from the last item */
+}
 .contact .php-email-form {
   height: 100%;
 }
