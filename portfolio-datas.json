@@ -8,15 +8,15 @@
       ],
       "details": [
         "Solidare is an application to help children who cannot go to school because of costs. People who care will easily channel aid through this application. We work together with Rumah Zakat.",
-        "I contributed as an Android Developer who rebuilt an existing application to participate in the BRI Digital Challenge, a Hackathon held by BRI in 2015. We successfully passed and entered the top 20 out of 792 participants.",
-        "We successfully reached the peak of Hackathon Day on September 30 and October 1, 2016 at ICE BSD, first 121 finalists received workshop guidance or Pre Hackathon Day on September 23 at the BRI I Building Hall. At this stage, the finalists were given the opportunity to ask questions to sharpen the ideas, prototypes, and simulations of the digital solutions they offered."
+        "Contributed as Android Developer who rebuilt an existing application to participate in the BRI Digital Challenge, a Hackathon held by BRI in 2015. We successfully passed and entered the top 20 out of 792 participants.",
+        "We are reached the peak of Hackathon Day on September 30 and October 1, 2016 at ICE BSD, first 121 finalists received workshop guidance or Pre Hackathon Day on September 23 at the BRI I Building Hall. At this stage, the finalists were given the opportunity to ask questions to sharpen the ideas, prototypes, and simulations of the digital solutions they offered."
       ],
       "info": {
         "category": "Android",
-        "tech_stack": " Android Studio, Java, Kotlin, Retrofit, XML, Postman",
+        "tech_stack": " Java, Kotlin, Retrofit, XML, Postman",
         "client": "UNIKOM Codelabs",
         "date": "2016",
-        "url": "http://example.com",
+        "url": null,
         "video_url" : null
       }
     },
@@ -28,12 +28,12 @@
         "assets/img/portfolio/sleepy_banner.jpg"
       ],
       "details": [
-        "Sleepy is a smart application that helps people get sleep quality. By using a smartwatch that will monitor sleep data and a smartphone light censor, the application can collect and provide tips and actions to do for better sleep.",
+        "Sleepy is a smart application that helps people get sleep quality. By using a smartwatch that will monitor sleep data and a smartphone light & noise censor, the application can collect and provide tips and actions to do for better sleep.",
         "Built with Java and Kotlin, Bluetooth connectivity, and S-Health library from Samsung"
       ],
       "info": {
-        "category": "Android Native",
-        "tech_stack": "Android Studio, Java, Kotlin, Retrofit, XML, Bluetooth Smartwatch SDK, S-Health SDK, Postman",
+        "category": "Android",
+        "tech_stack": "Java, Kotlin, Retrofit, XML, Bluetooth Smartwatch SDK, S-Health SDK, Postman, Laravel, PHP",
         "client": "Self Project (Bachelor's Degree Thesis Project)",
         "date": "2016",
         "url": null,
@@ -149,12 +149,12 @@
           "assets/img/portfolio/paytren_connect.jpg"
         ],
         "details": [
-          "Paytren Connect is Paytren Connect is an smart application that you can use after upgrade to Mitra Bisnis Premier.",
+          "Paytren Connect is an smart application that you can use after upgrade to Mitra Bisnis Premier.",
           "There are Smart chat, Smart media, Smart IoT, Smart link Apps, Smart Care, Smart Ads, and Smart Communication."
         ],
         "info": {
           "category": "iOS",
-          "tech_stack": "Swift, UIKit, Storyboard, Postman",
+          "tech_stack": "Swift, UIKit, Storyboard, Postman, Smartwatch, Bluetooth",
           "client": "Paytren",
           "date": "2018 - 2019",
           "url": null,
@@ -170,7 +170,7 @@
         ],
         "details": [
           "Nazar.id is a public e-commerce application.",
-          "I'm here to develop Native Android and iOS Application."
+          "I'm here to develop Native Android and iOS Application and also lead Mobile Application Development."
         ],
         "info": {
           "category": "Android, iOS",
@@ -195,7 +195,7 @@
         ],
         "info": {
           "category": "Android, SDK",
-          "tech_stack": "Android, Java, Kotlin, Media Player API, Dokka",
+          "tech_stack": "Android, Java, Kotlin, Media Player API, Chromecast, Dokka",
           "client": "MNC",
           "date": "2020 - 2022",
           "url": "https://github.com/mncinnovation/Inno-Player-Android-Demo",

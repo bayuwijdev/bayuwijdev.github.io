@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
             console.log(portfolio.images);
 
             if (portfolio.images && Array.isArray(portfolio.images)) {
-                if(portfolio.images.length > 1) {
+                // if(portfolio.images.length > 1) {
                     portfolio.images.forEach(imageUrl => {
                         const swiperSlide = document.createElement('div');
                         swiperSlide.classList.add('swiper-slide');
@@ -39,15 +39,15 @@ document.addEventListener("DOMContentLoaded", function () {
                         swiperSlide.appendChild(img);
                         swiperWrapper.appendChild(swiperSlide);
                     });
-                } else {
-                    const img = document.createElement('img');
-                    img.src = portfolio.images[0];
-                    img.height = "270"
-                    img.width = "450"
-                    img.alt = "";
-                    console.log(img);
-                    document.getElementById('single_image').appendChild(img);
-                }
+                // } else {
+                //     const img = document.createElement('img');
+                //     img.src = portfolio.images[0];
+                //     img.height = "270"
+                //     img.width = "450"
+                //     img.alt = "";
+                //     console.log(img);
+                //     document.getElementById('single_image').appendChild(img);
+                // }
             }
 
             // Set the portfolio description
