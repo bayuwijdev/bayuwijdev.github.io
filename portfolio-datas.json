@@ -32,10 +32,10 @@
         "Built with Java and Kotlin, Bluetooth connectivity, and S-Health library from Samsung"
       ],
       "info": {
-        "category": "Android",
+        "category": "Android, Back-End",
         "tech_stack": "Java, Kotlin, Retrofit, XML, Bluetooth Smartwatch SDK, S-Health SDK, Postman, Laravel, PHP",
         "client": "Self Project (Bachelor's Degree Thesis Project)",
-        "date": "2016",
+        "date": "2017",
         "url": null,
         "video_url" : null
       }
@@ -174,8 +174,8 @@
         ],
         "info": {
           "category": "Android, iOS",
-          "tech_stack": "Android, Java, Kotlin, Swift, UIKit, Storyboard, Postman",
-          "client": "Paytren",
+          "tech_stack": "Android, Java, Kotlin, Swift, Objective-C, UIKit, Storyboard, XML, Postman",
+          "client": "PT. Sarana Media Investama Group, Nazar.id",
           "date": "2018 - 2019",
           "url": "https://play.google.com/store/apps/details?id=id.smi.nazarid",
           "video_url": null
@@ -195,7 +195,7 @@
         ],
         "info": {
           "category": "Android, SDK",
-          "tech_stack": "Android, Java, Kotlin, Media Player API, Chromecast, Dokka",
+          "tech_stack": "Android, Java, Kotlin, Media Player API, Chromecast, Dokka, Groovy, Maven",
           "client": "MNC",
           "date": "2020 - 2022",
           "url": "https://github.com/mncinnovation/Inno-Player-Android-Demo",
@@ -221,7 +221,7 @@
         ],
         "info": {
           "category": "Android, SDK, Open Source",
-          "tech_stack": "Android, Java, Kotlin, XML, ML Kit, Face Recognition, Text Recognition",
+          "tech_stack": "Android, Java, Kotlin, XML, ML Kit, Face Recognition, Text Recognition, Android Library",
           "client": "MNC, Motion Pay",
           "date": "2022 - 2023",
           "url": "https://github.com/mncinnovation/mnc-identifiersdk-android",
@@ -241,7 +241,7 @@
         ],
         "info": {
           "category": "iOS",
-          "tech_stack": "Swift, Obj-C, UIKit",
+          "tech_stack": "iOS, Swift, Objective-C, UIKit",
           "client": "Karya Eka Nala, Hutama Karya",
           "date": "January - February 2021",
           "url": null,
@@ -271,7 +271,7 @@
       {
         "id": "13",
         "title": "Bioskop Online",
-        "description": "Media Player Android Mobile and TV SDK",
+        "description": "VOD streaming Mobile services",
         "images": [
           "assets/img/portfolio/bioskop_online.jpg"
         ],
@@ -324,7 +324,7 @@
           "category": "Back-End",
           "tech_stack": "Java, Spring, Go-Lang, Postgres, SQL, JSON",
           "client": "UrsaByte, KBStar",
-          "date": "2022-2023",
+          "date": "2022 - 2023",
           "url": null,
           "video_url": null
         }
@@ -363,7 +363,7 @@
         ],
         "info": {
           "category": "Android, SDK",
-          "tech_stack": "Java, Kotlin, Jetpack Compose, FFmpeg, Android Library",
+          "tech_stack": "Java, Kotlin, Jetpack Compose, FFmpeg, Android Library, Maven",
           "client": "MNC",
           "date": "2022 - 2023",
           "url": null,
@@ -402,8 +402,8 @@
           "Especially on the Accounts module (including Profile, Purchase Package, Inbox, Terms and Conditions, and Customer Service Information)"
         ],
         "info": {
-          "category": "Android",
-          "tech_stack": "Kotlin, XML, Leanback, AndroidTV",
+          "category": "Android, androidtv, Launcher",
+          "tech_stack": "Kotlin, XML, Leanback, androidtv",
           "client": "MNC, Vision+",
           "date": "March - May",
           "url": null,
@@ -427,8 +427,8 @@
           "Also optimizing the load of some pages and bug fixes."
         ],
         "info": {
-          "category": "Android, TV",
-          "tech_stack": "Kotlin, XML, Leanback, AndroidTV",
+          "category": "Android, androidtv",
+          "tech_stack": "Kotlin, XML, Leanback, androidtv",
           "client": "MNC, Vision+",
           "date": "May 2023",
           "url": null,
@@ -451,8 +451,8 @@
           "Also bug fixes."
         ],
         "info": {
-          "category": "Android, TV",
-          "tech_stack": "Kotlin, XML, Leanback, AndroidTV",
+          "category": "Android, androidtv",
+          "tech_stack": "Kotlin, XML, Leanback, androidtv",
           "client": "MNC, Vision+",
           "date": "Sep 2023 - Feb 2024",
           "url": null,
@@ -469,15 +469,16 @@
         "details": [
           "Rewrite Android TV Vision+ that has already been developed by the vendor.",
           "We make it in SDK format to make it seamless integration with Vision+ partners such as RCTI+.",
-          "Contribute to build:",
+          "Contribute for features:",
           "- Detail Page",
           "- Home & Adaptive Catalog Content",
-          "- Authentication",
-          "- Handle deeplinks"
+          "- Authentication Module",
+          "- Deeplinks",
+          "- And also Optimizing"
         ],
         "info": {
-          "category": "Android, TV, SDK",
-          "tech_stack": "Kotlin, Ktor, XML, Leanback, AndroidTV",
+          "category": "Android, androidtv, SDK",
+          "tech_stack": "Kotlin, Ktor, XML, Leanback, androidtv",
           "client": "MNC, Vision+",
           "date": "Feb 2024 - Present",
           "url": null,
