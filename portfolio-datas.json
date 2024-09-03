@@ -191,11 +191,12 @@
         "details": [
           "Being part of RnD team at MNC Innovation Center I'm contributing on research to build Media Player SDK, InnoPlayer.",
           "InnoPlayer is an media player SDK library that used for video, audio and live stream applications. Not only SDK for mobile application but also for large screen too, android tv.",
-          "For SDK documentation I'm also using Dokka, documentation engine for Kotlin."
+          "For SDK documentation I'm also using Dokka, documentation engine for Kotlin.",
+          "InnoPlayer is available for native users and also for the framework Flutter. We adopt a method channel from the native SDK to make it available for Dart."
         ],
         "info": {
-          "category": "Android, SDK",
-          "tech_stack": "Android, Java, Kotlin, Media Player API, Chromecast, Dokka, Groovy, Maven",
+          "category": "Android, Flutter, SDK",
+          "tech_stack": "Android, Java, Kotlin, Media Player API, Chromecast, Dokka, Groovy, Maven, Dart, Method Channel",
           "client": "MNC",
           "date": "2020 - 2022",
           "url": "https://github.com/mncinnovation/Inno-Player-Android-Demo",
