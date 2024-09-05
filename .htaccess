@@ -5,13 +5,12 @@
 # Any changes to the directives between these markers will be overwritten.
 <IfModule mod_rewrite.c>
 RewriteEngine On
-
-# Redirect all requests to /portfolio/detail/{id} to /portfolio/detail/index.html
-RewriteRule ^portfolio/detail/([0-9]+)$ /portfolio/detail/index.html?id=$1 [L,QSA]
-
-# Add .html extension for non-file requests
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.html [L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
 </IfModule>
 
 # END WordPress
