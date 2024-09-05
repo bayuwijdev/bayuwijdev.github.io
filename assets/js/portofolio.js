@@ -1,6 +1,15 @@
+// Function to extract the ID from the URL
+function getPortfolioId() {
+    // Get the full URL
+    const currentUrl = window.location.pathname;
+    // Split the URL to get the ID
+    const parts = currentUrl.split('/');
+    // The ID will be the last part
+    const id = parts[parts.length - 1];
+    return id;
+}
 document.addEventListener("DOMContentLoaded", function () {
-    const urlParams = new URLSearchParams(window.location.search);
-    const portfolioId = urlParams.get('id');
+    const portfolioId = getPortfolioId();
     
     fetch('portfolio-datas.json')
         .then(response => {
@@ -11,7 +20,6 @@ document.addEventListener("DOMContentLoaded", function () {
             return response.json();
         })
         .then(data => {
-            console.log(data); // Log the data to ensure it's being parsed correctly
             const portfolio = data.find(p => p.id === portfolioId);
             if (!portfolio) {
                 throw new Error('Portfolio not found');

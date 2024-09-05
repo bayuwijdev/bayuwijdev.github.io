@@ -4,7 +4,7 @@
       "title": "Solidare",
       "description": "An application to help child out of school, cooperate with Rumah Zakat",
       "images": [
-        "assets/img/portfolio/solidare_banner.jpg"
+        "../../assets/img/portfolio/solidare_banner.jpg"
       ],
       "details": [
         "Solidare is an application to help children who cannot go to school because of costs. People who care will easily channel aid through this application. We work together with Rumah Zakat.",
@@ -25,7 +25,7 @@
       "title": "Sleepy",
       "description": "An Android app to help you to get quality of Sleep",
       "images": [
-        "assets/img/portfolio/sleepy_banner.jpg"
+        "../../assets/img/portfolio/sleepy_banner.jpg"
       ],
       "details": [
         "Sleepy is a smart application that helps people get sleep quality. By using a smartwatch that will monitor sleep data and a smartphone light & noise censor, the application can collect and provide tips and actions to do for better sleep.",
@@ -45,7 +45,7 @@
         "title": "Comrades",
         "description": "Smart application as a media for HIV/AIDS education and services.",
         "images": [
-          "assets/img/portfolio/comrades/comrades_banner.jpg"
+          "../../assets/img/portfolio/comrades/comrades_banner.jpg"
         ],
         "details": [
           "Comrades is an application to help HIV/AIDS community and ODHA support each other, to remind ODHA about their ARV therapy, also as media education and information about HIV/AIDS.",
@@ -65,8 +65,8 @@
         "title": "Sistem Informasi Karya Mandiri",
         "description": "An smart IoT Android app for ODHA (People with HIV/AIDS)",
         "images": [
-          "assets/img/portfolio/comrades/comrades_banner.jpg",
-          "assets/img/portfolio/comrades/comrades_banner.jpg"
+          "../../assets/img/portfolio/comrades/comrades_banner.jpg",
+          "../../assets/img/portfolio/comrades/comrades_banner.jpg"
         ],
         "details": [
           "Comrades is an application to help HIV/AIDS community and ODHA support each other, to remind ODHA about their ARV therapy, also as media education and information about HIV/AIDS.",
@@ -86,7 +86,7 @@
         "title": "Paytren OPT",
         "description": "Attendance Application by scanning QR code built with native Android",
         "images": [
-          "assets/img/portfolio/paytren_opt.PNG"
+          "../../assets/img/portfolio/paytren_opt.PNG"
         ],
         "details": [
           "OPT is short of Orientasi Pebisnis Treni, so this is the annual event that held by Paytren for Mitra Paytren.",
@@ -106,7 +106,7 @@
         "title": "Paytren EDC",
         "description": "An Android application to help face to face transactions",
         "images": [
-          "assets/img/portfolio/paytren_EDC_banner.png"
+          "../../assets/img/portfolio/paytren_EDC_banner.png"
         ],
         "details": [
           "Face to face transaction like TopUp, Withdrawl with print receipt transaction by using Bluetooth connection."
@@ -125,7 +125,7 @@
         "title": "Paytren 5.17",
         "description": "Paytren e-Money Application built with native Android and iOS",
         "images": [
-          "assets/img/portfolio/paytren_5_17.jpg"
+          "../../assets/img/portfolio/paytren_5_17.jpg"
         ],
         "details": [
           "e-Money application from Paytren that have many features like PPOB, KYC, Pay by QRIS, Transfer, and chats.",
@@ -146,7 +146,7 @@
         "title": "Paytren Connect",
         "description": "iOS Application with IoT features",
         "images": [
-          "assets/img/portfolio/paytren_connect.jpg"
+          "../../assets/img/portfolio/paytren_connect.jpg"
         ],
         "details": [
           "Paytren Connect is an smart application that you can use after upgrade to Mitra Bisnis Premier.",
@@ -166,7 +166,7 @@
         "title": "Nazar.id",
         "description": "e-Commerce mobile Application and Mitra Nazar.id which integrated with Nazar.id app",
         "images": [
-          "assets/img/portfolio/nazarid_banner.jpg"
+          "../../assets/img/portfolio/nazarid_banner.jpg"
         ],
         "details": [
           "Nazar.id is a public e-commerce application.",
@@ -186,7 +186,7 @@
         "title": "InnoPlayer SDK",
         "description": "Media Player Mobile and TV SDK",
         "images": [
-          "assets/img/portfolio/innoplayer.jpg"
+          "../../assets/img/portfolio/innoplayer.jpg"
         ],
         "details": [
           "Being part of RnD team at MNC Innovation Center I'm contributing on research to build Media Player SDK, InnoPlayer.",
@@ -208,9 +208,9 @@
         "title": "MNC Identifier SDK",
         "description": "MNC Identifier is a service to identify, and verify consumer with AI in it.",
         "images": [
-          "assets/img/portfolio/mnc_identifier/mnc-identifier-cover.jpeg",
-          "assets/img/portfolio/mnc_identifier/mnc_identifier_banner_liveness.jpeg",
-          "assets/img/portfolio/mnc_identifier/mnc_identifier_banner_ocr.jpeg"
+          "../../assets/img/portfolio/mnc_identifier/mnc-identifier-cover.jpeg",
+          "../../assets/img/portfolio/mnc_identifier/mnc_identifier_banner_liveness.jpeg",
+          "../../assets/img/portfolio/mnc_identifier/mnc_identifier_banner_ocr.jpeg"
         ],
         "details": [
           "MNC Identifier is an smart identify SDK from MNC with AI. There are two main features in here.",
@@ -235,7 +235,7 @@
         "title": "HK Toll App - iOS",
         "description": "An application to help you while you want and driving on the Highway, especially at toll.",
         "images": [
-          "assets/img/portfolio/hk_toll_app_banner.jpg"
+          "../../assets/img/portfolio/hk_toll_app_banner.jpg"
         ],
         "details": [
           "Contribute to finishing development for some features and also bug fixing."
@@ -254,7 +254,7 @@
         "title": "Aplikasi Inovasi Daerah",
         "description": "Regional Innovation Applications consist of: Public Services, Government Administration, Education, Social Disparities and others",
         "images": [
-          "assets/img/portfolio/inovasi_daerah_app_kemendag.jpg"
+          "../../assets/img/portfolio/inovasi_daerah_app_kemendag.jpg"
         ],
         "details": [
           "This Regional Innovation is intended to encourage positive competition between provincial governments and between district/city governments in the implementation of regional government so that improved services to the community and increased development can be realized, in order to realize the welfare of the people.",
@@ -274,7 +274,7 @@
         "title": "Bioskop Online",
         "description": "VOD streaming Mobile services",
         "images": [
-          "assets/img/portfolio/bioskop_online.jpg"
+          "../../assets/img/portfolio/bioskop_online.jpg"
         ],
         "details": [
           "Bioskop Online is a Transactional Video On Demand (TVOD) service that presents quality local content created by the nation's children.",
@@ -294,7 +294,7 @@
         "title": "KBStar KB Bank",
         "description": "Mobile banking application from KB Bank",
         "images": [
-          "assets/img/portfolio/kbstar.jpg"
+          "../../assets/img/portfolio/kbstar.jpg"
         ],
         "details": [
           "KBStar is mobile banking application from KB Bank (previously is Bukopin).",
@@ -315,7 +315,7 @@
         "title": "API PPOB Bank Nobu",
         "description": "Restful API for PPOB Sistem Bank Nobu",
         "images": [
-          "assets/img/portfolio/nobu.jpg"
+          "../../assets/img/portfolio/nobu.jpg"
         ],
         "details": [
           "Join as Back-End developer to create Restful API by using Java Spring boot and Go-Lang.",
@@ -324,7 +324,7 @@
         "info": {
           "category": "Back-End",
           "tech_stack": "Java, Spring, Go-Lang, Postgres, SQL, JSON",
-          "client": "UrsaByte, KBStar",
+          "client": "UrsaByte, Nobu",
           "date": "2022 - 2023",
           "url": null,
           "video_url": null
@@ -335,7 +335,7 @@
         "title": "SES Audio Editor",
         "description": "SES is an smart audio application for Audio Editing.",
         "images": [
-          "assets/img/portfolio/ses_audio_editor.jpg"
+          "../../assets/img/portfolio/ses_audio_editor.jpg"
         ],
         "details": [
           "SES is coming from research and development product at MNC for audio editing.",
@@ -356,7 +356,7 @@
         "title": "Cubicle SDK",
         "description": "Video Editor SDK for video editing.",
         "images": [
-          "assets/img/portfolio/cubicle.jpg"
+          "../../assets/img/portfolio/cubicle.jpg"
         ],
         "details": [
           "Cubicle is Video Editor SDK that allows other media projects to use this SDK for video editing.",
@@ -376,7 +376,7 @@
         "title": "Ar-Risalah Lirboyo iOS App",
         "description": "e-Learning iOS application for pasantren Ar-Risalah Lirboyo.",
         "images": [
-          "assets/img/portfolio/arrisalah_banner.png"
+          "../../assets/img/portfolio/arrisalah_banner.png"
         ],
         "details": [
           "Make e-Learning of pasantren Ar-Risalah Lirboyo available on iPhone",
@@ -396,7 +396,7 @@
         "title": "Launcher TV Vision+ v2.0",
         "description": "Android TV Launcher for STB Vision+",
         "images": [
-          "assets/img/portfolio/vision_plus_launcher.jpg"
+          "../../assets/img/portfolio/vision_plus_launcher.jpg"
         ],
         "details": [
           "Contribute to building Android TV apps for the Vision+ launcher.",
@@ -416,7 +416,7 @@
         "title": "Android TV Vision+",
         "description": "Continue develop some features for Android TV Vision+ General & IndiHome",
         "images": [
-          "assets/img/portfolio/vision_plus.jpg"
+          "../../assets/img/portfolio/vision_plus.jpg"
         ],
         "details": [
           "Contribute to add some features:",
@@ -441,7 +441,7 @@
         "title": "Revamp Vision+ v2.0",
         "description": "Rewrite Vision+ v2.0",
         "images": [
-          "assets/img/portfolio/vision_plus_revamp.jpg"
+          "../../assets/img/portfolio/vision_plus_revamp.jpg"
         ],
         "details": [
           "Revamp/ rewrite Android TV Vision+",
@@ -465,7 +465,33 @@
         "title": "Vision+ SDK v3.0",
         "description": "Android TV SDK Vision+",
         "images": [
-          "assets/img/portfolio/vision_plus_new.png"
+          "../../assets/img/portfolio/vision_plus_new.png"
+        ],
+        "details": [
+          "Rewrite Android TV Vision+ that has already been developed by the vendor.",
+          "We make it in SDK format to make it seamless integration with Vision+ partners such as RCTI+.",
+          "Contribute for features:",
+          "- Detail Page",
+          "- Home & Adaptive Catalog Content",
+          "- Authentication Module",
+          "- Deeplinks",
+          "- And also Optimizing"
+        ],
+        "info": {
+          "category": "Android, androidtv, SDK",
+          "tech_stack": "Kotlin, Ktor, XML, Leanback, androidtv",
+          "client": "MNC, Vision+",
+          "date": "Feb 2024 - Present",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "23",
+        "title": "Transacxi",
+        "description": "Kotlin Multiplatform Mobile Project for handle POS transaction and journal",
+        "images": [
+          "../../assets/img/portfolio/vision_plus_new.png"
         ],
         "details": [
           "Rewrite Android TV Vision+ that has already been developed by the vendor.",
