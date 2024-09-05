@@ -8,16 +8,7 @@
 
 (function() {
   "use strict";
-  document.addEventListener('DOMContentLoaded', function () {
-    const path = window.location.pathname;
-    const regex = /^\/portfolio\/detail\/([0-9]+)$/;
-    const match = path.match(regex);
 
-    if (match) {
-      const id = match[1];
-      window.location.replace(`/portfolio/detail/index.html?id=${id}`);
-    }
-  });
   /**
    * Header toggle
    */
