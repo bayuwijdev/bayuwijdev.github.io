@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", function () {
             return response.json();
         })
         .then(data => {
-            console.log(data); // Log the data to ensure it's being parsed correctly
             const portfolio = data.find(p => p.id === portfolioId);
             if (!portfolio) {
                 throw new Error('Portfolio not found');

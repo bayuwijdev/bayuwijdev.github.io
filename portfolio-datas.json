@@ -170,7 +170,7 @@
         ],
         "details": [
           "Nazar.id is a public e-commerce application.",
-          "I'm here to develop Native Android and iOS Application and also lead Mobile Application Development."
+          "I'm here to develop Native Android and iOS Application and also lead Mobile Team Application Development. This team consisting of 2 iOS Developers and 2 Android Developers"
         ],
         "info": {
           "category": "Android, iOS",
@@ -324,7 +324,7 @@
         "info": {
           "category": "Back-End",
           "tech_stack": "Java, Spring, Go-Lang, Postgres, SQL, JSON",
-          "client": "UrsaByte, KBStar",
+          "client": "UrsaByte, Bank Nobu",
           "date": "2022 - 2023",
           "url": null,
           "video_url": null
@@ -340,13 +340,13 @@
         "details": [
           "SES is coming from research and development product at MNC for audio editing.",
           "Main features of this application is recording, editing (Trim, Converter), and Audio Effect (Noise reduce & Tone).",
-          "I'm here has successfully built this app in just only 3 weeks by using Jetpack Compose."
+          "I'm here lead development team and built this app for android platform in just only 3 weeks by using Jetpack Compose."
         ],
         "info": {
           "category": "Android",
           "tech_stack": "Java, Kotlin, Jetpack Compose, FFmpeg",
           "client": "MNC",
-          "date": "July 2022",
+          "date": "June - July 2022",
           "url": null,
           "video_url": null
         }
