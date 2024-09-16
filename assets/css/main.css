@@ -775,6 +775,20 @@ section,
   margin-bottom: 20px;
 }
 
+.resume .d-flex {
+  border: 1px solid #007bff;
+  border-radius: 0.5rem;
+  padding: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect */
+.resume .d-flex:hover, .d-flex:focus {
+    transform: translateY(-5px); /* Slight lift on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds shadow */
+    border-color: #0056b3; /* Darker border color */
+}
+
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;

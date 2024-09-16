@@ -45,7 +45,8 @@
         "title": "Comrades",
         "description": "Smart application as a media for HIV/AIDS education and services.",
         "images": [
-          "assets/img/portfolio/comrades/comrades_banner.jpg"
+          "assets/img/portfolio/comrades/comrades_banner.jpg",
+          "assets/img/portfolio/comrades/runner_up_gemastik_2016.jpg"
         ],
         "details": [
           "Comrades is an application to help HIV/AIDS community and ODHA support each other, to remind ODHA about their ARV therapy, also as media education and information about HIV/AIDS.",
@@ -76,7 +77,7 @@
           "category": "Android, IoT",
           "tech_stack": "PHP, Laravel, HTML, JavaScript, RFID",
           "client": "UNIKOM Codelabs",
-          "date": "2015-2017",
+          "date": "2016",
           "url": null,
           "video_url": "https://www.youtube.com/embed/-6sLrx5eSYA?si=U52AllfWgAvCFI7Z"
         }
@@ -96,7 +97,7 @@
           "category": "Android",
           "tech_stack": "Kotlin, Retrofit, XML, Postman",
           "client": "Paytren",
-          "date": "2017-2018",
+          "date": "Des 2017 - Jan 2018",
           "url": null,
           "video_url": null
         }
@@ -115,7 +116,7 @@
           "category": "Android",
           "tech_stack": "Kotlin, Retrofit, XML, Bluetooth Printer API, Postman",
           "client": "Paytren",
-          "date": "2017-2018",
+          "date": "2018",
           "url": null,
           "video_url": null
         }
@@ -406,7 +407,7 @@
           "category": "Android, androidtv, Launcher",
           "tech_stack": "Kotlin, XML, Leanback, androidtv",
           "client": "MNC, Vision+",
-          "date": "March - May",
+          "date": "March - May 2023",
           "url": null,
           "video_url": null
         }
@@ -431,7 +432,7 @@
           "category": "Android, androidtv",
           "tech_stack": "Kotlin, XML, Leanback, androidtv",
           "client": "MNC, Vision+",
-          "date": "May 2023",
+          "date": "Jan - Sep 2023",
           "url": null,
           "video_url": null
         }
@@ -468,14 +469,14 @@
           "assets/img/portfolio/vision_plus_new.png"
         ],
         "details": [
-          "Rewrite Android TV Vision+ that has already been developed by the vendor.",
+          "Rewrite Android TV Vision+ that has already been developed by the vendor (Mirada).",
           "We make it in SDK format to make it seamless integration with Vision+ partners such as RCTI+.",
           "Contribute for features:",
           "- Detail Page",
           "- Home & Adaptive Catalog Content",
           "- Authentication Module",
           "- Deeplinks",
-          "- And also Optimizing"
+          "- And also Optimizing to pervent Out of Memory issue"
         ],
         "info": {
           "category": "Android, androidtv, SDK",
