@@ -498,7 +498,7 @@
           "Android TV Launcher application for IPTV (Internet Protocol Television).",
           "Simple yet Luxury User Interface, Dynamic Content, Color and Themes. Comprehensive platform that bridges the gap between guests and hotel services.",
           "We make it using Android native platform.",
-          "I'm here as a research and development responsible and also contribute to:",
+          "I am here as the person in charge of research and development and also contribute to:",
           "- Optimizing",
           "- Features Development",
           "- Bug fixing"
@@ -508,6 +508,31 @@
           "tech_stack": "Kotlin, Ktor, XML, Leanback, androidtv, Device Policy Manager",
           "client": "MNC, MKM, NextSys",
           "date": "Sep 2024 - Present",
+          "url": null,
+          "video_url": null
+        }
+      },
+      {
+        "id": "25",
+        "title": "MediVal",
+        "description": "Medical Record Mobile Application",
+        "images": [
+          "assets/img/portfolio/medival_banner.png"
+        ],
+        "details": [
+          "Medical record application to make doctors easily write medical records of patients.",
+          "I am here as Flutter Developer and contribute for features:",
+          "- Register",
+          "- Profile and Update Profile",
+          "- Patients list",
+          "- Create Medical Record",
+          "- View Ongoing Medical"
+        ],
+        "info": {
+          "category": "Flutter",
+          "tech_stack": "Flutter, Dart",
+          "client": "PT. Aman Medika Jaya, MediVal",
+          "date": "Nov 2024 - Present",
           "url": null,
           "video_url": null
         }
