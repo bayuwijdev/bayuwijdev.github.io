@@ -177,7 +177,7 @@
           "category": "Android, iOS",
           "tech_stack": "Android, Java, Kotlin, Swift, Objective-C, UIKit, Storyboard, XML, Postman",
           "client": "PT. Sarana Media Investama Group, Nazar.id",
-          "date": "2018 - 2019",
+          "date": "2020 - 2021",
           "url": "https://play.google.com/store/apps/details?id=id.smi.nazarid",
           "video_url": null
         }
@@ -525,8 +525,8 @@
           "- Register",
           "- Profile and Update Profile",
           "- Patients list",
-          "- Create Medical Record",
-          "- View Ongoing Medical"
+          "- Create and view mode Medical Record (dynamic components)",
+          "- Medipal Home page"
         ],
         "info": {
           "category": "Flutter",
