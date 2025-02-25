@@ -492,13 +492,20 @@
         "title": "NextSys IPTV Platform Solutions",
         "description": "Android TV Launcher STB for IPTV",
         "images": [
-          "assets/img/portfolio/nextsys_iptv/nextsys_iptv_homepage.png"
+          "assets/img/portfolio/nextsys_iptv/nextsys_iptv_homepage.png",
+          "assets/img/portfolio/nextsys_iptv/nextsys_iptv_homepage_2.png"
         ],
         "details": [
           "Android TV Launcher application for IPTV (Internet Protocol Television).",
           "Simple yet Luxury User Interface, Dynamic Content, Color and Themes. Comprehensive platform that bridges the gap between guests and hotel services.",
           "We make it using Android native platform.",
-          "I am here as the person in charge of research and development and also contribute to:",
+          "I am here as the person in charge of research and development for some features that need to be researched first, such as:",
+          "- Restart and sleep/ shutdown Android STB device programmatically",
+          "- Clear cache applications installed on Android STB device programmatically",
+          "- Prevent Guest user to open Android Setting",
+          "- Hide or restrict access to applications and some Android setting feature",
+          "- etc",
+          "And also contribute to:",
           "- Optimizing",
           "- Features Development",
           "- Bug fixing"
